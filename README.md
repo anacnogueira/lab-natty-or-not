@@ -1,7 +1,7 @@
 # Um Assassinato em Ilhabela
 
-<a href="https://github.com/anacnogueira/lab-natty-or-not/blob/main/ebook.md" >Link E-book</a>
-<img src="https://mayacosmeticos.com.br/img/capa_ebook_assassinato_ilhabela .png" alt="Um Assassinato wm Ilhabela" title="Um assassinato em  Ilhabela" width="200">
+<a href="https://github.com/>anacnogueira/lab-natty-or-not/blob/main/ebook.md" >Link E-book</a>
+<img src="https://mayacosmeticos.com.br/img/capa_ebook_assassinato_ilhabela .png" alt="Um Assassinato wm Ilhabela" title="Um assassinato em  Ilhabela" width="200" />
 
 ## 📒 Descrição
 
