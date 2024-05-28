@@ -1,5 +1,8 @@
 # Um Assassinato em Ilhabela
 
+<a href="https://github.com/anacnogueira/lab-natty-or-not/blob/main/ebook.md" >Link E-book</a>
+<img src="https://mayacosmeticos.com.br/img/capa_ebook_assassinato_ilhabela .png" alt="Um Assassinato wm Ilhabela" title="Um assassinato em  Ilhabela">
+
 ## 📒 Descrição
 
 Criação de uma história ficcional de suspense policial sobre o assassinato de um empresário paulista em seu iate particular
